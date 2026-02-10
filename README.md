@@ -1,4 +1,5 @@
 # Malazan_Network2
+Network Malazan [take_a_look](https://portfolioontwikkelaar.github.io/malazan_web2/)
 ## Layout
 ![Malazan_network](screenshots/layout.png)
 
@@ -17,3 +18,4 @@ The visualization allows exploration of how mortals, Ascendants, and gods are in
 
 
 Designed as a flexible foundation: characters, relations, and books can easily be expanded or filtered.
+
